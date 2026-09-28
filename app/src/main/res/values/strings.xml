@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Automation Utility</string>
+    <string name="accessibility_service_description">Automation Utility Accessibility Service आपके द्वारा बनाई गई workflow को केवल तब चलाती है जब आप START दबाते हैं। यह screen पर मौजूद बटन/फ़ील्ड ढूंढती है, उन पर क्लिक/इनपुट करती है और परिणाम को verify करती है। यह OTP, password, PIN या CAPTCHA को automatic रूप से handle नहीं करती।</string>
+    <string name="notification_channel_name">Automation Running</string>
+    <string name="notification_channel_desc">Workflow चलते समय दिखने वाली सूचना</string>
+    <string name="action_stop">STOP</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_running">चल रहा है</string>
+    <string name="status_stopped">रोका गया</string>
+    <string name="status_completed">पूर्ण</string>
+    <string name="status_failed">विफल</string>
+</resources>
